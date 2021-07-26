@@ -6,3 +6,10 @@
     public $edad;
  }
 ?>
+<?php 
+ class Auto { 
+    public $nombre;
+    public $modelo;
+    public $version;
+ }
+?>
